@@ -129,6 +129,20 @@
   .appd1 {
     margin-top: 20px;
   }
+  #sec1::before {
+    content: "";
+    position: absolute;
+    height: 90vh;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    background: url(2.jpg) no-repeat center center/cover;
+    /* background-color: rgba(0,0,0,0.5);
+      background-blend-mode: overlay; */
+    background-attachment: fixed;
+    /* border: 2px solid purple; */
+    z-index: -1;
+  }
 }
 @media (max-width: 727px) {
   .sec5 {
