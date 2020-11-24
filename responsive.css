@@ -128,33 +128,7 @@
   }
   .appd1 {
     margin-top: 20px;
-  }
-  #sec1::before {
-    content: "";
-    position: absolute;
-    height: 90vh;
-    width: 100%;
-    top: 0px;
-    left: 0px;
-    background: url(2.jpg) no-repeat center center/cover;
-    /* background-color: rgba(0,0,0,0.5);
-      background-blend-mode: overlay; */
-    background-attachment: fixed;
-    /* border: 2px solid purple; */
-    z-index: -1;
-  }
-  #sec1 {
-    height: 70vh;
-    display: flex;
-    justify-content: center;
-    /* border: 2px solid yellowgreen; */
-    padding-left: 60px;
-    flex-direction: column;
-    color: white;
-    /* position: relative; */
-    padding-bottom: 80px;
-    font-family: "Ubuntu", sans-serif;
-  }
+  }  
 }
 @media (max-width: 768px){
   .sec2-head h1{
