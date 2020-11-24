@@ -108,6 +108,10 @@
   .navbar ul{    
     display: none;   
   }
+  .bx11{
+    height: auto;
+    background: none;
+  }
 }
 @media (max-width: 825px) {
   .sec3 {
