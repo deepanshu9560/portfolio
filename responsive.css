@@ -217,6 +217,9 @@
   footer{
     font-size: 12px;
   }
+   .bx5 h2{
+    font-size: 20px;
+  }
 }
 @media (max-width: 399px){
   #sec1 .bx1 {
