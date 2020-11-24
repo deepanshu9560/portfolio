@@ -1,3 +1,5 @@
+/* media query */
+
 @media (max-width: 982px) {
   .main3 {
     flex-wrap: wrap;
