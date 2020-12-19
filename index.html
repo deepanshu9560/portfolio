@@ -9,7 +9,15 @@
     <title>Portfolio</title>
 </head>
 
-<body>
+<body onload="myfunction()">
+    <div class="loading" id="load">
+      <div class="rot1">
+        <div class="main-rot">
+          <div class="rot"></div>
+          <h1>loading...</h1>
+        </div>
+      </div>
+    </div>
     <nav class="navbar" id="nav">
         <div class="box1">
             <h1>Portfo<span class="nvsp">lio.</span></h1>
@@ -228,6 +236,10 @@
                 }
             })
         })
+        let p = document.getElementById("load");
+      function myfunction() {
+        p.style.display = "none";
+      }
     </script>
 </body>
 
