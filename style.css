@@ -22,8 +22,8 @@
   position: absolute;
   height: 100%;
   width: 100%;
-  border-right: 0.3rem solid white;
-  border-left: 0.5rem solid crimson;
+  border-right: 1.0rem solid white;
+  border-left: 1.0rem solid crimson;
   border-radius: 50%;
   animation-name: rot;
   animation-timing-function: linear;
