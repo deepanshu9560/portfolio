@@ -102,8 +102,9 @@
   .box1 h1 {   
     padding-top: 4px;
   }
-  .navbar ul li {    
-    text-align: center;
+  .navbar ul li {
+    text-align: left;    
+    margin-left: -20px;
   }
   .navbar ul{    
     display: none;   
@@ -217,7 +218,8 @@
   }
   #sec1{
     padding: 0px 37px;
-    padding-bottom: 80px;
+    padding-bottom: 0;
+    margin-bottom: 30px;
   }
   #sec1 .bx1 {
     font-size: 20px;
