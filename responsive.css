@@ -191,7 +191,8 @@
     flex-direction: column;
     color: white;
     /* position: relative; */
-    padding-bottom: 80px;
+    padding-bottom: 0px;
+    margin-bottom: 80px;
     font-family: "Ubuntu", sans-serif;
   }
 }
