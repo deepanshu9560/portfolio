@@ -154,7 +154,7 @@
    #sec1::before {
     content: "";
     position: absolute;
-    height: 90vh;
+    height: 70vh;
     width: 100%;
     top: 0px;
     left: 0px;
@@ -174,7 +174,7 @@
     flex-direction: column;
     color: white;
     /* position: relative; */
-    padding-bottom: 80px;
+    padding-bottom: 0px;
     font-family: "Ubuntu", sans-serif;
   }
 }
