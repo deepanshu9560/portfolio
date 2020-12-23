@@ -55,14 +55,16 @@
   z-index: 999;
 }
 html {
-  scroll-behavior: smooth;
+  scroll-behavior: smooth; 
 }
 
 .navbar {
   display: flex;
-  margin-top: 10px;
-  position: sticky;
+  /* margin-top: 10px; */
+  position: fixed;
   top: 0px;
+  left: 0;
+  width: 100%;
   height: 60px;
   justify-content: space-between;
   align-items: center;
@@ -137,7 +139,7 @@ span {
   flex-direction: column;
   color: white;
   /* position: relative; */
-  padding-bottom: 80px;
+  padding-bottom: 0px;
   font-family: "Ubuntu", sans-serif;
 }
 
