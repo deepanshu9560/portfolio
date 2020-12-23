@@ -185,7 +185,7 @@
    #sec1::before {
     content: "";
     position: absolute;
-    height: 90vh;
+    height: 70vh;
     width: 100%;
     top: 0px;
     left: 0px;
