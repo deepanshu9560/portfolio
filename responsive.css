@@ -1,5 +1,19 @@
 /* media query */
-
+@media (max-width: 1366px){
+   #sec1 {
+    height: 89vh;
+    display: flex;
+    justify-content: center;
+    /* border: 2px solid yellowgreen; */
+    padding-left: 60px;
+    flex-direction: column;
+    color: white;
+    /* position: relative; */
+    padding-bottom: 0px;
+    margin-bottom: 80px;
+    font-family: "Ubuntu", sans-serif;
+  }
+}
 @media (max-width: 982px) {
   .main3 {
     flex-wrap: wrap;
