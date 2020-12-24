@@ -1,34 +1,5 @@
 /* media query */
-@media (max-width: 1765px){
-   #sec1 {
-    height: 89vh;
-    display: flex;
-    justify-content: center;
-    /* border: 2px solid yellowgreen; */
-    padding-left: 60px;
-    flex-direction: column;
-    color: white;
-    /* position: relative; */
-    padding-bottom: 0px;
-    margin-bottom: 80px;
-    font-family: "Ubuntu", sans-serif;
-   }
-}
-@media (max-width: 1366px){
-   #sec1 {
-    height: 89vh;
-    display: flex;
-    justify-content: center;
-    /* border: 2px solid yellowgreen; */
-    padding-left: 60px;
-    flex-direction: column;
-    color: white;
-    /* position: relative; */
-    padding-bottom: 0px;
-    margin-bottom: 80px;
-    font-family: "Ubuntu", sans-serif;
-  }
-}
+
 @media (max-width: 982px) {
   .main3 {
     flex-wrap: wrap;
@@ -118,9 +89,7 @@
     margin-top: -51px;
     padding-top: 3px;
   }
-  #sec1 {
-    height: 89vh;
-  }
+  
   .navbar{
     height: auto;
     display: block;    
@@ -165,65 +134,14 @@
 @media (max-width: 827px){
   .sec2-head h1{
     margin-top: 70px;    
-  }
-   #sec1::before {
-    content: "";
-    position: absolute;
-    height: 90vh;
-    width: 100%;
-    top: 0px;
-    left: 0px;
-    background: url(2.jpg) no-repeat center center/cover;
-    /* background-color: rgba(0,0,0,0.5);
-      background-blend-mode: overlay; */
-    background-attachment: fixed;
-    /* border: 2px solid purple; */
-    z-index: -1;
-  }
-  #sec1 {
-    height: 70vh;
-    display: flex;
-    justify-content: center;
-    /* border: 2px solid yellowgreen; */
-    padding-left: 60px;
-    flex-direction: column;
-    color: white;
-    /* position: relative; */
-    padding-bottom: 0px;
-    font-family: "Ubuntu", sans-serif;
-  }
+  }  
+ 
 }
 @media (max-width: 768px){
   .sec2-head h1{
     margin-top: 70px;    
-  }
-   #sec1::before {
-    content: "";
-    position: absolute;
-    height: 90vh;
-    width: 100%;
-    top: 0px;
-    left: 0px;
-    background: url(2.jpg) no-repeat center center/cover;
-    /* background-color: rgba(0,0,0,0.5);
-      background-blend-mode: overlay; */
-    background-attachment: fixed;
-    /* border: 2px solid purple; */
-    z-index: -1;
-  }
-  #sec1 {
-    height: 70vh;
-    display: flex;
-    justify-content: center;
-    /* border: 2px solid yellowgreen; */
-    padding-left: 60px;
-    flex-direction: column;
-    color: white;
-    /* position: relative; */
-    padding-bottom: 0px;
-    margin-bottom: 80px;
-    font-family: "Ubuntu", sans-serif;
-  }
+  } 
+ 
 }
 @media (max-width: 727px) {
   .sec5 {
@@ -246,11 +164,7 @@
   .navbar{
     padding: 0px 37px;
   }
-  #sec1{
-    padding: 0px 37px;
-    padding-bottom: 0;
-    margin-bottom: 30px;
-  }
+ 
   #sec1 .bx1 {
     font-size: 20px;
     /* font-weight: bold; */
