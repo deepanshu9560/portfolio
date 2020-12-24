@@ -160,6 +160,21 @@
   .sec4{
     height: auto;
   }
+  #sec1 {
+  height: 100vh;
+  display: flex;
+  background-attachment: fixed;
+  justify-content: center;
+  background: url(2.jpg) no-repeat center center/cover;
+  /* border: 2px solid yellowgreen; */
+  padding-left: 60px;
+  flex-direction: column;
+  color: white;
+  /* position: relative; */
+  padding-bottom: 0px;
+  margin-bottom: -100px;
+  font-family: "Ubuntu", sans-serif;
+}
   
   .navbar{
     padding: 0px 37px;
@@ -193,6 +208,21 @@
   /* .sec6{
     height: 700px;
   } */
+  #sec1 {
+  height: 100vh;
+  display: flex;
+  background-attachment: fixed;
+  justify-content: center;
+  background: url(2.jpg) no-repeat center center/cover;
+  /* border: 2px solid yellowgreen; */
+  padding-left: 60px;
+  flex-direction: column;
+  color: white;
+  /* position: relative; */
+  padding-bottom: 0px;
+  margin-bottom: -100px;
+  font-family: "Ubuntu", sans-serif;
+}
   #sec1 .bx1 {
     font-size: 15px;
     /* font-weight: bold; */
@@ -236,6 +266,21 @@
     font-size: 15px;
     /* font-weight: bold; */
   }
+  #sec1 {
+  height: 100vh;
+  display: flex;
+  background-attachment: fixed;
+  justify-content: center;
+  background: url(2.jpg) no-repeat center center/cover;
+  /* border: 2px solid yellowgreen; */
+  padding-left: 60px;
+  flex-direction: column;
+  color: white;
+  /* position: relative; */
+  padding-bottom: 0px;
+  margin-bottom: -100px;
+  font-family: "Ubuntu", sans-serif;
+}
   
   #sec1 .bx2 {
     font-size: 40px;
@@ -265,10 +310,40 @@
   .bx4 img{
     width: 270px;
   }
+  #sec1 {
+  height: 100vh;
+  display: flex;
+  background-attachment: fixed;
+  justify-content: center;
+  background: url(2.jpg) no-repeat center center/cover;
+  /* border: 2px solid yellowgreen; */
+  padding-left: 60px;
+  flex-direction: column;
+  color: white;
+  /* position: relative; */
+  padding-bottom: 0px;
+  margin-bottom: -100px;
+  font-family: "Ubuntu", sans-serif;
+}
   
 }
 @media (max-width: 291px){
   footer{
     font-size: 8px;
   }
+  #sec1 {
+  height: 100vh;
+  display: flex;
+  background-attachment: fixed;
+  justify-content: center;
+  background: url(2.jpg) no-repeat center center/cover;
+  /* border: 2px solid yellowgreen; */
+  padding-left: 60px;
+  flex-direction: column;
+  color: white;
+  /* position: relative; */
+  padding-bottom: 0px;
+  margin-bottom: -100px;
+  font-family: "Ubuntu", sans-serif;
+}
 }
