@@ -71,6 +71,7 @@ html {
   padding: 0px 60px;
   /* border: 2px solid black; */
   font-family: "Poppins", sans-serif;
+  transition: all 300ms ease-out;
   /* background: black;
     background-color: rgba(0, 0, 0,0.1); */
 }
